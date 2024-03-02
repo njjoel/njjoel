@@ -1,5 +1,5 @@
 ### Hi, This is joel's profile👋
-
+So I have added just one project to this profile that is the first person shooter game, which was a painful enjoyable project for me.
 <!--
 **njjoel/njjoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
